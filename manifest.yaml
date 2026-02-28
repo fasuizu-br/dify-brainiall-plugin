@@ -1,4 +1,4 @@
-version: 0.0.1
+version: 0.0.2
 type: plugin
 author: brainiall
 name: brainiall
@@ -16,8 +16,6 @@ icon: icon.svg
 resource:
   memory: 268435456
   permission:
-    tool:
-      enabled: false
     model:
       enabled: true
       llm: true
@@ -26,19 +24,11 @@ resource:
       tts: false
       speech2text: false
       moderation: false
-    node:
-      enabled: false
-    endpoint:
-      enabled: false
-    app:
-      enabled: false
-    storage:
-      enabled: false
 plugins:
   models:
     - provider/brainiall.yaml
 meta:
-  version: 0.0.1
+  version: 0.0.2
   arch:
     - amd64
     - arm64

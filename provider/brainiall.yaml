@@ -11,7 +11,7 @@ help:
     en_US: Get your API Key from Brainiall
     zh_Hans: 从 Brainiall 获取 API Key
   url:
-    en_US: https://brainiall.com
+    en_US: https://app.brainiall.com/?promo=DIFY10
 supported_model_types:
   - llm
 configurate_methods:

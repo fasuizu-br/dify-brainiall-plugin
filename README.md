@@ -23,7 +23,7 @@ Plus 100+ additional models available as custom models.
 
 ## Setup
 
-1. Get your API key from [brainiall.com](https://brainiall.com)
+1. Get your API key from [app.brainiall.com](https://app.brainiall.com/?promo=DIFY10)
 2. Install this plugin in your Dify instance
 3. Go to **Settings > Model Providers** and find **Brainiall**
 4. Enter your API key and click **Save**
@@ -32,7 +32,7 @@ Plus 100+ additional models available as custom models.
 
 You can also add any of the 113+ models not listed as predefined by using the **Add Model** option. Enter the model name exactly as listed in the API catalog and configure context size, max tokens, and function calling support.
 
-Full model catalog: https://brainiall.com
+Full model catalog: https://app.brainiall.com
 
 ## Features
 
@@ -44,6 +44,6 @@ Full model catalog: https://brainiall.com
 
 ## Contact
 
-- Website: https://brainiall.com
+- Website: https://app.brainiall.com
 - Email: fasuizu@brainiall.com
 - Repository: https://github.com/fasuizu-br/dify-brainiall-plugin
