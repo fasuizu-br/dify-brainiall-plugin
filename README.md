@@ -1,6 +1,6 @@
 # Brainiall LLM Gateway
 
-Access 113+ AI models from 17 providers through a single OpenAI-compatible API, powered by AWS Bedrock.
+Access 33+ AI models from leading providers through a single OpenAI-compatible API.
 
 ## Available Models
 
@@ -19,7 +19,7 @@ Access 113+ AI models from 17 providers through a single OpenAI-compatible API, 
 | Amazon Nova Pro | 300K | $0.80 / $3.20 |
 | Amazon Nova Micro | 128K | $0.035 / $0.14 |
 
-Plus 100+ additional models available as custom models.
+Additional models available as custom models.
 
 ## Setup
 
@@ -30,7 +30,7 @@ Plus 100+ additional models available as custom models.
 
 ## Custom Models
 
-You can also add any of the 113+ models not listed as predefined by using the **Add Model** option. Enter the model name exactly as listed in the API catalog and configure context size, max tokens, and function calling support.
+You can also add any of the 33+ models not listed as predefined by using the **Add Model** option. Enter the model name exactly as listed in the API catalog and configure context size, max tokens, and function calling support.
 
 Full model catalog: https://app.brainiall.com
 
@@ -40,7 +40,7 @@ Full model catalog: https://app.brainiall.com
 - Streaming responses
 - Function calling / tool use support
 - Vision support (Claude, Nova Pro, Mistral Large 3, Llama 4 Scout)
-- Competitive pricing via AWS Bedrock
+- Competitive pricing
 
 ## Contact
 
